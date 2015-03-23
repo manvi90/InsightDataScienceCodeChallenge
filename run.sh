@@ -1,0 +1,3 @@
+cd src
+javac CustomizeTokenizer.java
+java CustomizeTokenizer wc_input wc_output
